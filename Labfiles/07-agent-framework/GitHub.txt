@@ -1,0 +1,2 @@
+--- Develop an Azure AI chat agent with the Microsoft Agent Framework SDK ---
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/Exercises/07-agent-framework.html

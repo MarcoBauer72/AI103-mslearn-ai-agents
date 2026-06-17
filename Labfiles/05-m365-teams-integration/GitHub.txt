@@ -1,0 +1,2 @@
+--- Deploy agents to Microsoft Teams and Copilot ---
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/Exercises/05a-m365-teams-integration.html
